@@ -8,9 +8,9 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
 
 :root {
-  --primary-color: #21224e;
+  --primary-color: #3a3a3c;
   --secondary-color: #9f4393;
-  --bg-color: #3a3a3c;
+  --bg-color: #23232c;
   --accent-color: #3a3b89;
   --text-color-primary: #f8f7f8;
 }
