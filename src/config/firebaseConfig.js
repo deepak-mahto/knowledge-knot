@@ -6,6 +6,6 @@ export const firebaseConfig = {
   messagingSenderId: "707791916096",
   appId: "1:707791916096:web:b701e52a28d9239c24e3a5",
   measurementId: "G-SPV4MMZTGB",
-  email: "prakash@gmail.com",
+  email: "deepak@gmail.com",
   password: "password",
 };
