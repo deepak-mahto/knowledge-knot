@@ -1,5 +1,7 @@
 # KnowledgeKnot
 
+![Project Image](./img/knowledgeknot.png)
+
 KnowledgeKnot is a quiz app with multiple categories, allowing users to enjoy quizzes from their favourite topics. Test your knowledge and learn along the way with a variety of quizzes.
 
 ## Features
